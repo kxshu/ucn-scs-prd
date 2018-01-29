@@ -1,3 +1,33 @@
 {
-	"title" : "UCN供应链业务说明文档"
+	"title" : "UCN供应链业务说明文档",
+	"author" : "kx",
+	"description" : "对UCN供应链业务进行描述和说明。",
+	"language" : "zh-hans",
+	"plugins": [
+    "-search",
+    "search-pro"
+],
+"pluginsConfig": {
+    "search-pro": {
+        "cutWordLib": "nodejieba",
+        "defineWord" : ["Gitbook Use"]
+    }
+},
+"plugins": [
+    "splitter"
+],
+"plugins": [
+   "tbfed-pagefooter"
+],
+"pluginsConfig": {
+    "tbfed-pagefooter": {
+        "copyright":"Copyright &copy kx 2018",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+},
+"plugins": ["toggle-chapters"],
+"plugins": [
+    "mermaid-gb3"
+]
 }
