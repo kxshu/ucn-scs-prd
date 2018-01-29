@@ -7,9 +7,7 @@
 
 ## 功能模块
 
-* [zhao-kuan.md](/zhao-kuan.md "找款")
-
-
+* [找款](//zhao-kuan.md)
 
 
 
