@@ -23,4 +23,5 @@
   * [生产与入库](功能模块/sheng-chan-yu-ru-ku.md)
   * [报关与装柜](功能模块/bao-guan-yu-zhuang-gui.md)
   * [服务订单](功能模块/fu-wu-ding-dan.md)
+  * [单证](功能模块/dan-zheng.md)
 
