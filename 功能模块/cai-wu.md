@@ -25,5 +25,10 @@
 1. T/T
 2. L/C
 
+### 付款时间
+
+1. 付款比例
+2. 下单时20% - FOB有B/L 80% - arrival（telex release）
+
 
 
