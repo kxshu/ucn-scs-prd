@@ -18,6 +18,8 @@
 * [询盘](功能模块/xun-pan.md)
 * [合同与订单](/功能模块/he-tong-yu-ding-dan.md)
   * [预付款](/功能模块/he-tong-yu-ding-dan/yu-fu-kuan.md)
-* [生产与入库](功能模块/sheng-chan-yu-ru-ku.md)
-* [报关与装柜](功能模块/bao-guan-yu-zhuang-gui.md)
+* [物流](功能模块/wu-liu.md)
+  * [生产与入库](功能模块/sheng-chan-yu-ru-ku.md)
+  * [报关与装柜](功能模块/bao-guan-yu-zhuang-gui.md)
+  * 服务订单
 
