@@ -8,6 +8,12 @@
 
 `ETA/ATA`-&gt; `进口报关`-&gt; `国内物流` -&gt; `DC`
 
+### 术语
+
+| 词汇 | 解释 | 内容 | 发起人 |
+| :--- | :--- | :--- | :--- |
+| Loading Plan |  | 1. Product List\&lt;br&gt; |  |
+
 ### 系统
 
 1. tracking system 中Exception report 时效异常报告
