@@ -37,7 +37,11 @@
 
 ##### 参考资料
 
-[https://www.asiainspection.com/](https://www.asiainspection.com/)\`
+[https://www.asiainspection.com/](https://www.asiainspection.com/)
+
+### 库存（Inventory）
+
+定义为可以发的货。明确仓库地、数量，并与订单关联。
 
 ### 系统
 
