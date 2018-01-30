@@ -8,3 +8,11 @@
 
 `ETA/ATA`-&gt; `进口报关`-&gt; `国内物流` -&gt; `DC`
 
+### 系统
+
+1. tracking system 中Exception report 时效异常报告
+2. 中转港口的时效调控需要管理
+3. 船公司的追踪系统对接
+
+
+
