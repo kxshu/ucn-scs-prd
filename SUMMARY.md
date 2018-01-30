@@ -16,7 +16,9 @@
 
 * [找款](功能模块/zhao-kuan.md)
 * [询盘](功能模块/xun-pan.md)
-* [生产与入库](功能模块/sheng-chan-yu-ru-ku.md)
-* [合同与订单](功能模块/he-tong-yu-ding-dan.md)
+* [合同与订单](/功能模块/he-tong-yu-ding-dan.md)
   * [预付款](/功能模块/he-tong-yu-ding-dan/yu-fu-kuan.md)
+* [生产与入库](功能模块/sheng-chan-yu-ru-ku.md)
+
+
 
