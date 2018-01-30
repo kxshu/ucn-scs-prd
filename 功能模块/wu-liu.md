@@ -12,7 +12,9 @@
 
 | 词汇 | 解释 | 内容 | 发起人 |
 | :--- | :--- | :--- | :--- |
-| Loading Plan |  | 1. Product List/&lt;br&gt; s |  |
+| Loading plan |  | Product List |  |
+| Delivery forecast |  |  |  |
+| Delivery plan |  |  |  |
 
 ### 系统
 
