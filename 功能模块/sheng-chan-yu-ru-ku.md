@@ -35,6 +35,10 @@
 
 `验货实际款式不存在` -&gt;  `删除对应SKU`
 
+##### 参考资料
+
+[https://www.asiainspection.com/](https://www.asiainspection.com/)
+
 ### 系统
 
 设定所有订单都有垃圾箱功能，被删除的SKU可以被恢复，但需要双方（或多方）确认。
