@@ -15,6 +15,7 @@
 ## 功能模块
 
 * [找款](功能模块/zhao-kuan.md)
+  * [产品](功能模块/zhao-kuan/chan-pin.md)
 * [询盘](功能模块/xun-pan.md)
 * [合同与订单](/功能模块/he-tong-yu-ding-dan.md)
   * [预付款](/功能模块/he-tong-yu-ding-dan/yu-fu-kuan.md)
