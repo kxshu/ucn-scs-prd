@@ -4,5 +4,3 @@
 
 `sourcing` -&gt; `negociation` -&gt; `order` -&gt; `loading` -&gt; `port` -&gt; `dc` -&gt; `rdc` -&gt; `店面` -&gt; `customer`
 
-1
-
