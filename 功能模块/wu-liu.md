@@ -13,6 +13,9 @@
 | 词汇 | 解释 | 内容 | 发起人 |
 | :--- | :--- | :--- | :--- |
 | Loading plan |  | Product List |  |
+|  |  | Container |  |
+|  |  | Forwarder |  |
+|  |  | Booking |  |
 | Delivery forecast |  |  |  |
 | Delivery plan |  |  |  |
 
