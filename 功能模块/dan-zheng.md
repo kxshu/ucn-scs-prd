@@ -25,7 +25,7 @@
 | 单证项 | 解释 | 内容 | 备注 | 发起人 |
 | :--- | :--- | :--- | :--- | :--- |
 | PI | 下单单证 |  |  |  |
-| 出货单证 |  |  |  |  |
+| CI | 出货单证 |  |  |  |
 | Proforma invoice | 形式发票 | Product \(packing details?\) |  |  |
 |  |  | Price |  |  |
 |  |  | Quantity |  |  |
@@ -35,7 +35,6 @@
 | Commercial invoice | 出货/装柜之后的发票 | Product | 客户的不同部门的着重点不同 |  |
 |  |  | Price |  |  |
 |  |  | Quantity |  |  |
-| CI单证 |  |  |  |  |
 
 
 
