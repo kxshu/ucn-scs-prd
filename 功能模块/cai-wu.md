@@ -28,7 +28,7 @@
 ### 付款时间
 
 1. 付款比例
-2. 下单时20% -&gt; FOB有B/L 80% -&gt; arrival（telex release）
+2. 下单时20% -&gt; FOB有B/L 80% -&gt; arrival（telex release）（百分比仅作示例）
 
 
 
