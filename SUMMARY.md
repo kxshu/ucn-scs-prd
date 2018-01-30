@@ -9,7 +9,7 @@
   * [大买家基础流程](业务流程图/大买家基础业务流程.md)
 * [角色](jiao-se.md)
   * [采购商](jiao-se/cai-gou-shang.md)
-  * 供应商
+  * [供应商](jiao-se/gong-ying-shang.md)
   * 服务商
 
 ## 功能模块
