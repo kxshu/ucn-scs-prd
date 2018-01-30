@@ -14,7 +14,7 @@
 | :--- | :--- | :--- | :--- |
 | Delivery forecast |  |  |  |
 | Delivery plan |  |  |  |
-| Loading plan |  | Product List | 采购商发起 |
+| Loading plan |  | Product List | 采购商 |
 |  |  | Container |  |
 |  |  | Forwarder |  |
 |  |  | Booking |  |
