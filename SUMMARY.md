@@ -21,5 +21,5 @@
 * [物流](功能模块/wu-liu.md)
   * [生产与入库](功能模块/sheng-chan-yu-ru-ku.md)
   * [报关与装柜](功能模块/bao-guan-yu-zhuang-gui.md)
-  * 服务订单
+  * [服务订单](功能模块/fu-wu-ding-dan.md)
 
