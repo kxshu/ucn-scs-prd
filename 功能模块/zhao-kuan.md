@@ -18,18 +18,9 @@
 5. 数据库未录入的商品  
    客户提出需求，经供应商确认后由供应商先录入信息再进行报价，最终以QC为准，并单独保留客户的产品库（未经流程确认的商品信息，单独为对应客户保留）。
 
-
-
 &lt;!--sec data-title="客户清楚要什么，找谁要" data-id="case1" data-nopdf="true" cse--&gt;
 
 完全对应，直接查找
 
 &lt;!--endsec--&gt;
-
-```
-<!--sec data-title="Introduction" data-id="intro" data-nopdf="true" ces--
->
-```
-
-
 
