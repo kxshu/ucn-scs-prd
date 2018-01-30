@@ -14,5 +14,7 @@
 2. 中转港口的时效调控需要管理
 3. 船公司的追踪系统对接
 
+#### 预测流程
 
+`Delivery forecast` -&gt; `delivery plan（客户确认运输方式，客户考虑单个SKU的发运计划）` -&gt; `loading plan（大客户可能提前2周开始订集装箱，实际应该是goods ready后才能落实）`
 
