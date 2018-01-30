@@ -27,4 +27,5 @@
   * [单证](功能模块/dan-zheng.md)
   * [到港](功能模块/dao-gang.md)
 * [财务](功能模块/cai-wu.md)
+* [分析报告](功能模块/fen-xi-bao-gao.md)
 
