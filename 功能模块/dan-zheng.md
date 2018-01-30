@@ -22,16 +22,19 @@
 
 ### 单证项
 
-| 单证项 | 解释 | 内容 | 发起人 |
-| :--- | :--- | :--- | :--- |
-| 下单单证 |  |  |  |
-| 出货单证 |  |  |  |
-| Proforma invoice | 形式发票 | Product \(packing details?\) |  |
-|  |  | Price |  |
-|  |  | Quantity |  |
-|  |  | Unit（计量单位） |  |
-|  |  | Time |  |
-|  |  | Terms&Contract |  |
+| 单证项 | 解释 | 内容 | 备注 | 发起人 |
+| :--- | :--- | :--- | :--- | :--- |
+| 下单单证 |  |  |  |  |
+| 出货单证 |  |  |  |  |
+| Proforma invoice | 形式发票 | Product \(packing details?\) |  |  |
+|  |  | Price |  |  |
+|  |  | Quantity |  |  |
+|  |  | Unit（计量单位） |  |  |
+|  |  | Time |  |  |
+|  |  | Terms&Contract |  |  |
+| Commercial invoice | 出货/装柜之后的发票 | Product | 客户的不同部门的着重点不同 |  |
+|  |  | Price |  |  |
+|  |  | Quantity |  |  |
 
 
 
