@@ -20,21 +20,13 @@
 
 无
 
-### 涉及范围
+### 设置范围
 
-##### 标准范围
+1. 权限设置（`角色`、`成员`、`页面`、`功能点控制`）
+2. 系统初始化设置
+3. 页面展示设置
 
-1. order tracking 
-   已经发生的，`询价 ->  DC`
-2. forecast
-   delivery forecast，将要发生的，`已下单 -> DC`
 
-##### DIY
-
-1. product \(sku\)
-2. database history
-3. 预警
-4. 评估（维度：人 sku project  supplier）
 
 
 
