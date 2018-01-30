@@ -24,7 +24,7 @@
 
 ### 系统
 
-1. tracking system 中Exception report 时效异常报告
+1. Tracking system 中Exception report 时效异常报告
 2. 中转港口的时效调控需要管理
 3. 船公司的追踪系统对接
 
