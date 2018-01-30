@@ -31,7 +31,7 @@
 |  |  | Quantity |  |
 |  |  | Unit（计量单位） |  |
 |  |  | Time |  |
-|  |  | Terms&contract |  |
+|  |  | Terms&Contract |  |
 
 
 
