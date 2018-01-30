@@ -12,12 +12,15 @@
 
 | 词汇 | 解释 | 内容 | 发起人 |
 | :--- | :--- | :--- | :--- |
+| Delivery forecast |  |  |  |
+| Delivery plan |  |  |  |
 | Loading plan |  | Product List |  |
 |  |  | Container |  |
 |  |  | Forwarder |  |
 |  |  | Booking |  |
-| Delivery forecast |  |  |  |
-| Delivery plan |  |  |  |
+| Booking |  | 集装箱、仓位的协调 |  |
+|  |  | 用container号追踪最好 |  |
+| Loading |  |  |  |
 
 ### 系统
 
