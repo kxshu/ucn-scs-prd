@@ -12,7 +12,7 @@
 
 | 词汇 | 解释 | 内容 | 发起人 |
 | :--- | :--- | :--- | :--- |
-| Loading Plan |  | 1. Product List\&lt;br&gt; |  |
+| Loading Plan |  | 1. Product List/&lt;br&gt; s |  |
 
 ### 系统
 
