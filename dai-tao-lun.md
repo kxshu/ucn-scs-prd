@@ -14,5 +14,13 @@
 
 * [ ] Logistics order是否需要 order by carrier
 
+* [ ] BOM  
+  - SAME VALUE  
+  - ADD VALUE
+
+* [ ] 订单  
+  - 关联性订单  
+  - 非关联订单
+
 
 
