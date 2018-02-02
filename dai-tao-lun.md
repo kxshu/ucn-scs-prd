@@ -1,3 +1,5 @@
+# 待讨论
+
 * [ ] Logistics order 是不是就是 Shipping order
 * [ ] Actual upload qty 是指loading ?
 
