@@ -8,3 +8,17 @@
 
 `UCN供应链平台`会逐步实现`采购商在线产互`，`实现业务信息流`、`交易资金流`、`物流三流合一`的B2B商业网络；
 
+## 项目计划
+
+* [OmniPlan版](/assets/Plan/index.html)
+
+* [网页简版](https://shimo.im/sheet/Z7dTySowyCE5J7AA/)
+
+## 原型
+
+* [采购商端](https://axhub.im/pro/282c989ac491f80f)（密码：123456）
+* [供应商端](https://axhub.im/pro/7ea34a55779f8db6)（密码：123456）
+* [服务商端](https://axhub.im/pro/86afd076482af3cf)（密码：123456）
+
+
+
