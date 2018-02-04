@@ -12,6 +12,7 @@
   * [供应商](jiao-se/gong-ying-shang.md)
   * [服务商](jiao-se/fu-wu-shang.md)
 * [待讨论](dai-tao-lun.md)
+* [相关资料](xiang-guan-zi-liao.md)
 
 ## 功能模块
 
