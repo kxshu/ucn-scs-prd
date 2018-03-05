@@ -4,7 +4,7 @@
 
 * [文档说明](README.md)
 * [相关资料](xiang-guan-zi-liao.md)
-* [待讨论](dai-tao-lun.md)
+* [相关讨论](dai-tao-lun.md)
 * [术语及定义](术语及定义/术语及定义.md)
   * [国际贸易常用](术语及定义/国际贸易常用术语.md)
 * [业务流程](业务流程图/README.md)
