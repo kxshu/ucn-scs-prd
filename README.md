@@ -10,9 +10,9 @@
 
 ## 项目计划
 
-[OmniPlan版](/assets/Plan/index.html)
+* [OmniPlan版](/assets/Plan/index.html)
 
-[网页简版](https://shimo.im/sheet/Z7dTySowyCE5J7AA/)
+* [网页简版](https://shimo.im/sheet/Z7dTySowyCE5J7AA/)
 
 ## 原型
 
