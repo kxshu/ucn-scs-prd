@@ -16,7 +16,7 @@
 
 ## 原型
 
-* 采购商端
+* 采购商
   * [原网页版](https://axhub.im/pro/282c989ac491f80f)（密码：123456）
   * [附件版](/assets/Prototype/index.html)
 * [供应商端](https://axhub.im/pro/7ea34a55779f8db6)（密码：123456）
