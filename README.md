@@ -24,7 +24,7 @@
 
 {% raw %}
 <video id="my-video" class="video-js" controls preload="auto" width="100%"
-poster="https://zhangjikai.com/resource/poster.jpg" data-setup='{"aspectRatio":"16:9"}'>
+ data-setup='{"aspectRatio":"16:9"}'>
   <source src="/assets/VID_20180313_174613.mp4" type='video/mp4' >
   <p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a web browser that
