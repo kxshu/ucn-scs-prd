@@ -22,6 +22,9 @@
 * [供应商端](https://axhub.im/pro/7ea34a55779f8db6)（密码：123456）
 * [服务商端](https://axhub.im/pro/86afd076482af3cf)（密码：123456）
 
+## 原型
+
+
 {% raw %}
 <video id="my-video" class="video-js" controls preload="auto" width="100%"
  data-setup='{"aspectRatio":"16:9"}'>
