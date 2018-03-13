@@ -22,5 +22,16 @@
 * [供应商端](https://axhub.im/pro/7ea34a55779f8db6)（密码：123456）
 * [服务商端](https://axhub.im/pro/86afd076482af3cf)（密码：123456）
 
+{% raw %}
+<video id="my-video" class="video-js" controls preload="auto" width="100%"
+poster="https://zhangjikai.com/resource/poster.jpg" data-setup='{"aspectRatio":"16:9"}'>
+  <source src="https://zhangjikai.com/resource/demo.mp4" type='video/mp4' >
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+  </p>
+</video>
+{% endraw %}
+
 
 
