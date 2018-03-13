@@ -28,7 +28,7 @@
 {% raw %}
 <video id="my-video" class="video-js" controls preload="auto" width="100%"
  data-setup='{"aspectRatio":"16:9"}'>
-  <source src="/assets/VID_20180313_174613.mp4" type='video/mp4' >
+  <source src="https://kxshu.gitbooks.io/ucn-scs-prd-records/assets/VID_20180313_174613.mp4" type='video/mp4' >
   <p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a web browser that
     <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
